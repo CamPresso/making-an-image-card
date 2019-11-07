@@ -30,6 +30,7 @@ html {
   left: 0;
   width: 100%;
 }
+
 .card-label {
   padding: .3rem 1rem .3rem calc(91rem - 4px);
   border-left: 4px solid green;
